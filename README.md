@@ -19,6 +19,12 @@ When the membrane potential reaches a threshold, a spike is generated and the va
 - Matplotlib
 - Jupyter Notebook
 
+
+## ## Questions Raised
+- How sensitive are the observed dynamics to parameter choices?
+- Which biological features are essential for reproducing this behavior?
+
+
 ## Results
 The model successfully demonstrates regular spiking behavior. Increasing the input current
 leads to a higher firing frequency, while lower current reduces spiking activity.
